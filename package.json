@@ -1,0 +1,14 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "products services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leopoldo Muller",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.2"
+  }
+}
