@@ -1,0 +1,5 @@
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProduct.Domain\bin\Debug\netcoreapp3.0\HashProduct.Domain.deps.json
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProduct.Domain\bin\Debug\netcoreapp3.0\HashProduct.Domain.dll
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProduct.Domain\obj\Debug\netcoreapp3.0\HashProduct.Domain.csprojAssemblyReference.cache
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProduct.Domain\obj\Debug\netcoreapp3.0\HashProduct.Domain.AssemblyInfoInputs.cache
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProduct.Domain\obj\Debug\netcoreapp3.0\HashProduct.Domain.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\bin\Debug\netcoreapp3.0\appsettings.json
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\obj\Debug\netcoreapp3.0\HashProducts.csprojAssemblyReference.cache
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\obj\Debug\netcoreapp3.0\staticwebassets\HashProducts.StaticWebAssets.Manifest.cache
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\obj\Debug\netcoreapp3.0\staticwebassets\HashProducts.StaticWebAssets.xml
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\obj\Debug\netcoreapp3.0\HashProducts.AssemblyInfoInputs.cache
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\obj\Debug\netcoreapp3.0\HashProducts.AssemblyInfo.cs
+C:\PrivateWorkSpace\hashProducts\HashProducts\HashProducts\obj\Debug\netcoreapp3.0\HashProducts.RazorTargetAssemblyInfo.cache
