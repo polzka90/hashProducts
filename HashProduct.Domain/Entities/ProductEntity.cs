@@ -6,7 +6,7 @@ using System.Text;
 
 namespace HashProduct.Domain.Entities
 {
-    [Table("tbl_products")]
+    [Table("tbl_produtos")]
     public class ProductEntity
     {
         [Key]

@@ -4,6 +4,9 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <UserSecretsId>c49dd086-3391-432c-9f1a-5ea3fec62ebf</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
   </PropertyGroup>
 
   <ItemGroup>

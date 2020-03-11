@@ -1,14 +1,11 @@
-﻿using HashProduct.Domain.Models;
+﻿using HashProduct.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace HashProduct.Domain.Contexts
 {
     public class ProductContext : DbContext
     {
-        public DbSet<Product> Products { get; set; }
+        public DbSet<ProductEntity> Products { get; set; }
 
         public ProductContext(DbContextOptions<ProductContext> options) :
             base(options)

@@ -2,11 +2,12 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace HashProduct.Domain.Interfaces
 {
     public interface IProductService
     {
-        IEnumerable<Product> GetAllProductsWithDiscount(int? userId);
+        Task<IEnumerable<Product>> GetAllProductsWithDiscount(string userId);
     }
 }
