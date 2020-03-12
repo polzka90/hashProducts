@@ -10,3 +10,4 @@ C:\PrivateWorkSpace\hashProducts\HashProduct.Domain\bin\Debug\netcoreapp3.0\Hash
 C:\PrivateWorkSpace\hashProducts\HashProduct.Domain\bin\Debug\netcoreapp3.0\HashProduct.Domain.pdb
 C:\PrivateWorkSpace\hashProducts\HashProduct.Domain\obj\Debug\netcoreapp3.0\HashProduct.Domain.dll
 C:\PrivateWorkSpace\hashProducts\HashProduct.Domain\obj\Debug\netcoreapp3.0\HashProduct.Domain.pdb
+C:\PrivateWorkSpace\hashProducts\HashProduct.Domain\obj\Debug\netcoreapp3.0\HashProduct.Domain.csprojAssemblyReference.cache

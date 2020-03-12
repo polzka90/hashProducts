@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "57e72bdc-d177-4c7c-a703-88ca7c2b9944",
+		"name": "Hash",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ProductTest",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-USER-ID",
+						"value": "42975333080",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:52120/product",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52120",
+					"path": [
+						"product"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

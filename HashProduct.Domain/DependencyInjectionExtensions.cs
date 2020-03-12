@@ -21,8 +21,7 @@ namespace HashProduct.Domain
             services.AddScoped<IProductService, ProductService>();
             var discountConfig = configuration.GetSection("DiscountServiceConfig")?.Get<DiscountServicesConfig>();
             services.AddTransient<IAclDiscount>(s => new AclDiscount(discountConfig.Host, discountConfig.Port));
-            services.AddEntityFrameworkNpgsql()
-             .AddDbContext<ProductContext>(options => options.UseNpgsql(configuration.GetSection("HashCnnString").Value));
+            services.AddDbContext<ProductContext>(options => options.UseNpgsql(configuration.GetSection("HashCnnString").Value));
             
             var mappingConfig = new MapperConfiguration(mc =>
             {

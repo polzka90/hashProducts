@@ -11,6 +11,9 @@ services:
       - "5432"
       - "52120"
     ports:
-      - "3000"
-      - "5432"
       - "52120:80"
+    networks:
+      - hash-network
+networks:
+  hash-network:
+    external: true

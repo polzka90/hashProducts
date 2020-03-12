@@ -36,7 +36,7 @@ namespace HashProduct.Domain.Acls
             }
             catch (Exception ex)
             {
-
+                Console.WriteLine(ex.ToString());
             }
 
             return discount;
